@@ -1,6 +1,4 @@
-package com.Delegate;
-
-import java.util.Currency;
+package com.delegate;
 
 /**
  * Created by qny4i on 04.03.2017.

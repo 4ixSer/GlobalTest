@@ -1,4 +1,4 @@
-package com.Delegate;
+package com.delegate;
 
 /**
  * Created by qny4i on 04.03.2017.

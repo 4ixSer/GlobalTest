@@ -1,4 +1,4 @@
-package com.Prototype;
+package com.prototype;
 
 /**
  * Created by qny4i on 05.03.2017.
